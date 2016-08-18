@@ -39,6 +39,7 @@ source-repository head
 
 Library
   Exposed-modules:   Foundation
+                     Foundation.Boolean
                      Foundation.Number
                      Foundation.Array
                      Foundation.Array.Internal
